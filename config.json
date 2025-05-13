@@ -1,0 +1,12 @@
+{
+    "gzjcw": {
+        "jdk-version": "17",
+        "redis-version": "5",
+        "postgresql-version": "10"
+    },
+    "cwtz": {
+        "jdk-version": "11",
+        "redis-version": "6",
+        "postgresql-version": "14"
+    }
+}
